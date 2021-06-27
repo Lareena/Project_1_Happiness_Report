@@ -20,8 +20,11 @@ Null hypothesis: GDP is not related to the happiness level.
 4. What portion of high-GDP countries have low happiness levels?
 5. What portion of low-GDP countries have high happiness levels?
 
+### Results:
+Results are located in the PowerPoint Presentation.
 
-
-
+### Conclusions:
+Reject Null Hypothesis.
+Evidence shows our hypothesis is correct.
 
 
